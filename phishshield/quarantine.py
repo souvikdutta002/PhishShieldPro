@@ -109,7 +109,7 @@ class QuarantineSystem:
         report = {
             "generated_at": datetime.now().isoformat(),
             "tool": "PhishShield Pro",
-            "author": "Latice",
+            "author": "Souvik Dutta",
             "summary": self.get_stats(),
             "entries": [e.to_dict() for e in self._entries]
         }
