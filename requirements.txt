@@ -1,0 +1,5 @@
+# PhishShield Pro uses only Python standard library modules
+# No external dependencies required!
+
+# Optional: for enhanced features
+# colorama>=0.4.6  # for Windows color support
