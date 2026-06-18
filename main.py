@@ -39,7 +39,6 @@ BANNER = f"""
 {RESET}{CYAN}                     P R O  ─  Phishing Detection & Simulation Toolkit{RESET}
 {DIM}                              ─────────────────────────────────{RESET}
 {WHITE}                                   Author: {MAGENTA}SOUVIK DUTTA{RESET}
-{DIM}                              Built with Python • Cybersecurity{RESET}
 """
 
 MENU = f"""
