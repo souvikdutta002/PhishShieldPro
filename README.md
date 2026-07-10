@@ -18,7 +18,7 @@
 [![Tests](https://img.shields.io/badge/Tests-26%20Passed-brightgreen?style=flat-square)](#testing)
 [![Cybersecurity](https://img.shields.io/badge/Domain-Cybersecurity-red?style=flat-square)](#)
 
-*Built by **SOUVIK DUTTA** 
+![](https://img.shields.io/badge/Built%20By-Souvik%20Dutta-white?style=for-the-badge)
 </div>
 
 ---
